@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Matt and I'm an engineer on the [Gatsby](https://github.com/gatsbyjs/gatsby) core team. I also created [the fastest camera flash that you can buy](https://www.vela.io). 
+I'm Matt and I'm a principal engineer at [Netlify](https://github.com/netlify), working on open source integrations. I also created [the fastest camera flash that you can buy](https://www.vela.io). 
 <!--
 **ascorbic/ascorbic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
