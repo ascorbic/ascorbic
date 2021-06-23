@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## How to reach me ##
-[linkedin](https://twitter.com/ascorbic)
+[Twitter](https://twitter.com/ascorbic)
